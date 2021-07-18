@@ -1,0 +1,24 @@
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'/Users/azamchaiforoush/Documents/RockPaperScissors/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/azamchaiforoush/Documents/RockPaperScissors/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'RockPaperScissors 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/Users/azamchaiforoush/Documents/RockPaperScissors/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'RockPaperScissors 1.0-SNAPSHOT API'
